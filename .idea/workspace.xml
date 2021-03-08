@@ -1,29 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a1bb0fd-726b-4958-a04f-990352c542b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/Group 5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/instagram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/switch.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/veg.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/form/spinner.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slider/food-12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slider/olive-oil.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slider/paprika.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slider/pepper.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tabs/elite.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tabs/hamburger.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tabs/post.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tabs/vegy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.php" afterDir="false" />
+    <list default="true" id="e42e1f8b-2e2d-4ea2-813a-373202e3c225" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1n8rZqeNTJxcajCfzKXDQcorOlW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1pUcZxuO2qGJNbuZTU8pJz45aXb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,24 +33,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6a1bb0fd-726b-4958-a04f-990352c542b2" name="Default Changelist" comment="" />
-      <created>1610782620086</created>
+      <changelist id="e42e1f8b-2e2d-4ea2-813a-373202e3c225" name="Default Changelist" comment="" />
+      <created>1615241169051</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1610782620086</updated>
-      <workItem from="1610782620316" duration="105000" />
-      <workItem from="1615136483852" duration="277000" />
-      <workItem from="1615136833499" duration="959000" />
+      <updated>1615241169051</updated>
+      <workItem from="1615241170461" duration="1354000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="463" y="116" key="FileChooserDialogImpl" timestamp="1610782723720">
-      <screen x="0" y="0" width="1366" height="722" />
-    </state>
-    <state x="463" y="116" key="FileChooserDialogImpl/0.0.1366.722@0.0.1366.722" timestamp="1610782723720" />
   </component>
 </project>
